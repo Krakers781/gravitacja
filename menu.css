@@ -484,4 +484,9 @@ body {
     .menu-category h2 {
         font-size: 20px; 
     }
+
+    #scrollToTop {
+        right: 50%;
+        transform: translateX(50%);
+    }
 }
